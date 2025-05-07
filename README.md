@@ -1,7 +1,3 @@
-# Typescript-Learning
-Typescript testing for demo. 
-
-
 ## Running TypeScript in Node.js
 
 Follow the steps below to set up and run TypeScript code in a Node.js environment.
