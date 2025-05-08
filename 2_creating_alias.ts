@@ -1,5 +1,4 @@
 // ## Common the repetition Things
-// type Details = {name: string, marks: number, address? : string};
 type Details = { name: string, marks: number, address?: string };
 
 // const result1 : {name: string, marks: number, address? : string} = {

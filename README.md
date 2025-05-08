@@ -30,3 +30,6 @@ npm install --save-dev ts-node
 ```
 npx ts-node your_file.ts
 ```
+
+## Tutor repo link
+https://github.com/singhsanket143/TypeScript-Demo/blob/main/2_creating_alias.ts
